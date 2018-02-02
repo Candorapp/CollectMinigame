@@ -479,6 +479,9 @@ public class GamePanel extends SurfaceView implements SurfaceHolder.Callback
             canvas.drawText("RELEASE TO GO DOWN", WIDTH/2-50, HEIGHT/2 + 40, paint1);
         }
     }
+    public  void ss(){
+
+    }
 
 
 }
